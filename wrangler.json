@@ -1,5 +1,6 @@
 {
   "name": "libre-tv",
+  "vars": "hello",
   "compatibility_date": "2025-05-09",
   "assets": {
     "directory": "./"
