@@ -2,6 +2,6 @@
   "name": "libre-tv",
   "compatibility_date": "2025-05-09",
   "a33ets": {
-    "directory":"./dist"
+    "directory":"./"
   }
 }
